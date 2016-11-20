@@ -1,7 +1,7 @@
 #!/bin/bash
 
 colorPrint () {
-   echo "$(tput setaf 1) $(tput setab 7) Visualizer Installer $(tput sgr 0) $(tput setaf 1) $(tput bold) $1 $(tput setaf 7)"
+   echo "$(tput setaf 1) $(tput setab 7) OSWeekends Installer $(tput sgr 0) $(tput setaf 1) $(tput bold) $1 $(tput setaf 7)"
 } 
 
 colorPrint "Welcome, $C9_FULLNAME!" 
