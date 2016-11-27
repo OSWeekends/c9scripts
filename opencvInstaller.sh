@@ -6,7 +6,10 @@ colorPrint () {
 
 colorPrint "Welcome, $C9_FULLNAME!" 
 
-colorPrint "First of all we need to update apt-get"
+colorPrint "Its important to know that this require 5GB free space"
+colorPrint "Your will need a premium c9.io account or an ubuntu linux machine"
+
+colorPrint "1. First of all we need to update apt-get"
 sudo apt-get update
 
 colorPrint "2. Let's check your system (Node & Npm)..."
