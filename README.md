@@ -1,6 +1,10 @@
 # c9scripts
 
-Here we will put the c9 scripts to make easier to work with
+Here we will put the c9 scripts to make easier to work with.
+
+Its important to know that every script must be an executable file.
+For that porpouse write in the same folder you have the script:
+"chmod 755 nameOfTheScript.sh"
 
 ### Avalable Scripts:
 
