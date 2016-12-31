@@ -7,5 +7,5 @@ heroku create
 git push heroku master
 echo "Now lets see if any instance of the app its running"
 heroku ps:scale web=1
-echo"Now lets visit with heroku open"
+echo "Now lets visit with heroku open"
 heroku open
