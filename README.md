@@ -11,6 +11,7 @@ For that porpouse write in the same folder you have the script:
 - **[Install MongoDB](https://github.com/OSWeekends/c9scripts/blob/master/mongoscriptc9.sh)** _It will install mongodb and give you instructions on how it works on c9_
 - **[Install Node Global Dependencies](https://github.com/OSWeekends/c9scripts/blob/master/node_global_dependencies.sh)** _It will install Bower, Gulp, Grunt, Yeoman and solve the SUDO issue_
 - **[Install pylint](https://github.com/OSWeekends/c9scripts/blob/master/pylint.sh)** _It will install pylint,a python highlighting system_
+- **[Install heroku](https://github.com/OSWeekends/c9scripts/blob/master/herokuinstall.sh)** _It will install heroku and start an app pushing whatever is on your folder_
 
 ### Need more?
 
